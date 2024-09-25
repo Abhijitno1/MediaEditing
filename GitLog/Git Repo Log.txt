@@ -1,0 +1,34 @@
+Sample downloaded from
+https://learn.microsoft.com/en-us/samples/microsoft/windows-universal-samples/mediaediting/
+Other userful Resource
+https://stackoverflow.com/questions/5041910/how-to-cut-crop-trim-a-video-in-respect-with-time-or-percentage-and-save-output
+https://stackoverflow.com/questions/1707516/c-sharp-and-ffmpeg-preferably-without-shell-commands#1733516
+============================================================================================================
+Git Repository Log
+Initialize Git Repository at: D:\Pract\Projects\External\MediaEditing\cs
+Your solution contains files outside the solution folder which will not be managed by Git:
+D:\Pract\Projects\External\MediaEditing\SharedContent\xaml\App.xaml,
+D:\Pract\Projects\External\MediaEditing\SharedContent\cs\App.xaml.cs,
+D:\Pract\Projects\External\MediaEditing\SharedContent\media\microsoft-sdk.png,
+D:\Pract\Projects\External\MediaEditing\SharedContent\media\smalltile-sdk.png,
+D:\Pract\Projects\External\MediaEditing\SharedContent\media\splash-sdk.png,
+D:\Pract\Projects\External\MediaEditing\SharedContent\media\squaretile-sdk.png,
+D:\Pract\Projects\External\MediaEditing\SharedContent\media\storelogo-sdk.png,
+D:\Pract\Projects\External\MediaEditing\SharedContent\media\tile-sdk.png,
+D:\Pract\Projects\External\MediaEditing\SharedContent\media\windows-sdk.png,
+D:\Pract\Projects\External\MediaEditing\SharedContent\cs\MainPage.xaml,
+D:\Pract\Projects\External\MediaEditing\SharedContent\cs\MainPage.xaml.cs,
+D:\Pract\Projects\External\MediaEditing\SharedContent\cs\AssemblyInfo.cs,
+D:\Pract\Projects\External\MediaEditing\SharedContent\cs\Default.rd.xml,
+D:\Pract\Projects\External\MediaEditing\SharedContent\xaml\Styles.xaml
+
+A new Git repository has been created for you in D:\Pract\Projects\External\MediaEditing\cs. Open the Git Repository window to view its contents.
+Opening repositories:
+D:\Pract\Projects\External\MediaEditing\cs
+Opening repositories:
+D:\Pract\Projects\External\MediaEditing\cs
+Commit 3a8bb23e created locally in repository D:\Pract\Projects\External\MediaEditing\cs
+Opening repositories:
+D:\Pract\Projects\External\MediaEditing\cs
+Opening repositories:
+D:\Pract\Projects\External\MediaEditing\cs
